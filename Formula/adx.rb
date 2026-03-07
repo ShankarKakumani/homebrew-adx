@@ -6,7 +6,6 @@ class Adx < Formula
   license "MIT"
 
   depends_on "fzf"
-  depends_on "android-platform-tools"
 
   def install
     bin.install "bin/adx"
