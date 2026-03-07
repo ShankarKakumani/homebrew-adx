@@ -1,8 +1,8 @@
 class Adx < Formula
   desc "Android Developer eXperience — WiFi connect + scrcpy mirror for Android 11+"
   homepage "https://github.com/ShankarKakumani/adx"
-  url "https://github.com/ShankarKakumani/adx/archive/refs/tags/v1.0.6.tar.gz"
-  sha256 "e2045e1207cc62adbbf2c09ae3597283be3189e8f64c7943a591bb6349484f23"
+  url "https://github.com/ShankarKakumani/adx/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "3c0dc4441f8287c377c08ae7232e5952eaafd6e15085961ef0faabf0c20ffb35"
   license "MIT"
 
   depends_on "fzf"
